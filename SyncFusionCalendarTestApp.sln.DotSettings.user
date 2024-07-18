@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/lennart.kroneman/.nuget/packages/selenium.webdriver/4.21.0/lib/netstandard2.0/WebDriver.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=225179bd_002D22ae_002D45a4_002Db030_002D402e11f5ec79/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BD29CBDD-D250-4864-A982-6383921A2B1C::net8.0::AppiumTest.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=77d0ec57_002Def48_002D4bb1_002D8ac3_002D4a908cf59199/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DateSelector_WhenDateIsSelected_ItIsRenderedInLabelBelow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BD29CBDD-D250-4864-A982-6383921A2B1C::net8.0::AppiumTest.iOSSelectDateTest.DateSelector_WhenDateIsSelected_ItIsRenderedInLabelBelow&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::BD29CBDD-D250-4864-A982-6383921A2B1C::net8.0::AppiumTest.AndroidSelectDateTest.DateSelector_WhenDateIsSelected_ItIsRenderedInLabelBelow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6af9f05_002Db5ae_002D44c9_002Da083_002D98b268b1ea42/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BD29CBDD-D250-4864-A982-6383921A2B1C::net8.0::AppiumTest.iOSSelectDateTest.DateSelector_WhenDateIsSelected_ItIsRenderedInLabelBelow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eed42d12_002D2828_002D427b_002D8243_002Da283dd0f0fd7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BD29CBDD-D250-4864-A982-6383921A2B1C::net8.0::AppiumTest.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

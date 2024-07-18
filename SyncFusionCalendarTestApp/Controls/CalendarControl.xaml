@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<calendar:SfCalendar
+    AllowViewNavigation="False"
+    BackgroundColor="White"
+    SelectionBackground="#0073b9"
+    ShowTrailingAndLeadingDates="False"
+    TodayHighlightBrush="#1f2426"
+    View="Month"
+    x:Class=" SyncFusionCalendarTestApp.Controls.CalendarControl"
+    xmlns:calendar="clr-namespace:Syncfusion.Maui.Calendar;assembly=Syncfusion.Maui.Calendar"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <calendar:SfCalendar.HeaderView>
+        <calendar:CalendarHeaderView Height="0" ShowNavigationArrows="False" />
+    </calendar:SfCalendar.HeaderView>
+</calendar:SfCalendar>
